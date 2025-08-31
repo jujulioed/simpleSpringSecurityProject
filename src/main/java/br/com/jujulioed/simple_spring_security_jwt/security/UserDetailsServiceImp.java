@@ -1,6 +1,5 @@
-package br.com.jujulioed.simple_spring_security_jwt.services;
+package br.com.jujulioed.simple_spring_security_jwt.security;
 
-import br.com.jujulioed.simple_spring_security_jwt.UserAuthenticated;
 import br.com.jujulioed.simple_spring_security_jwt.repositories.UserRespository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

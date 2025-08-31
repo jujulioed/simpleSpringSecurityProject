@@ -1,4 +1,4 @@
-package br.com.jujulioed.simple_spring_security_jwt.services;
+package br.com.jujulioed.simple_spring_security_jwt.security;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;

@@ -1,5 +1,6 @@
 package br.com.jujulioed.simple_spring_security_jwt.services;
 
+import br.com.jujulioed.simple_spring_security_jwt.security.JwtService;
 import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Service;
 
